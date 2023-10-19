@@ -32,7 +32,7 @@
   
 
 <a href="https://github.com/sumedhgh29">
-<img width="49%" title="Redirect's to Ayush's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="49%" title="Sumedh's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
