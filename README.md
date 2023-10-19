@@ -28,7 +28,7 @@
 <img width="60%" title="Sumedh's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhgh29&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 <a href="https://github.com/sumedhgh29">
-<img width="90%" title="Sumedh's Github" src="https://github-profile-trophy.vercel.app/?username=sumedhgh29&theme=darkhub&no-frame=false&no-bg=true&margin-w=10" /></a>
+<img width="85%" title="Sumedh's Github" src="https://github-profile-trophy.vercel.app/?username=sumedhgh29&theme=darkhub&no-frame=false&no-bg=true&margin-w=10" /></a>
 
 
 
