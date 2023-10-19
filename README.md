@@ -6,8 +6,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedh-dubey-95366b237) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sumedhdubey872) 
-[![Microsoft]([https://img.shields.io/badge/Microsoft-%230877B5.svg?logo=Microsoft&logoColor=green)](https://learn.microsoft.com/en-gb/users/sumedhdubey-0632/)
-[![Google](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=GCP&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/d859f8ed-de58-44a7-86ed-23e39a8ae544)
+[![Microsoft](https://img.shields.io/badge/Microsoft-%230877B5.svg?logo=Microsoft&logoColor=green)](https://learn.microsoft.com/en-gb/users/sumedhdubey-0632/)
+[![Google](https://img.shields.io/badge/Google-%23F60023.svg?logo=qwiklabs&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/d859f8ed-de58-44a7-86ed-23e39a8ae544)
 
 
 
