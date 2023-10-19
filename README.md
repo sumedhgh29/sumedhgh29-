@@ -23,9 +23,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://img.shields.io/badge/Trophies-%23316192.svg?style=for-the-badge&logo=github&logoColor=white)](https://github-profile-trophy.vercel.app/?username=sumedhgh29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+[![Trophies](https://img.shields.io/badge/Trophies-%23316192.svg?style=for-the-badge&logo=github&logoColor=white)](https://github-profile-trophy.vercel.app/?username=sumedhgh29&theme=darkhub&no-frame=false&no-bg=true&margin-w=10)  
 ### ✍️ Random Dev Quote
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
