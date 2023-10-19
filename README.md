@@ -6,10 +6,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedh-dubey-95366b237) 
+
 [![Trailhead](https://img.shields.io/badge/Trailhead-%23E60023.svg?logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/sumedh2909) 
 [![Microsoft](https://img.shields.io/badge/Microsoft-%230877B5.svg?logo=Microsoft&logoColor=green)](https://learn.microsoft.com/en-gb/users/sumedhdubey-0632/)
 [![Google](https://img.shields.io/badge/Google-%23F60023.svg?logo=qwiklabs&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/d859f8ed-de58-44a7-86ed-23e39a8ae544)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumedh-dubey-95366b237) 
 [![Unity](https://img.shields.io/badge/Unity-%23E60023.svg?logo=Unity&logoColor=white)](https://learn.unity.com/u/6321fce6edbc2a03e40d4c40?tab=profile) 
 
 
