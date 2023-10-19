@@ -1,7 +1,5 @@
 # README
 
-![Uploading image.png…]()
-
 
 # 💫 About Me:
 🔭 I’m currently an AR/VR Developer and UI/UX Designer <br>👯 I’m enthusiastic about Cloud Computing & DBMS<br>🌱 I’m pursuing my B. Tech in Information Technology <br>
