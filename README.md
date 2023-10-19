@@ -32,7 +32,7 @@
   
 
 <a href="https://github.com/sumedhgh29">
-<img width="49%" title="Sumedh's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="50%" title="Sumedh's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
@@ -47,8 +47,6 @@
 ### ✍️ Visitors Count
 [![](https://visitcount.itsvg.in/api?id=sumedhgh29 &icon=9&color=1)](https://visitcount.itsvg.in)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
