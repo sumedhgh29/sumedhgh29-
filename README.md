@@ -31,11 +31,10 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumedhgh29&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 <a href="https://github.com/sumedhgh29">
-<img width="30%" title="Sumedh's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
-
+<img width="52%" title="Sumedh's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
+  
 <a href="https://github.com/sumedhgh29">
-<img width="60%" title="Sumedh's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
-
+<img width="30%" title="Sumedh's Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhgh29&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 ## 🏆 GitHub Trophies
