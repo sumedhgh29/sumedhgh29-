@@ -46,8 +46,7 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-### ✍️ Visitors Count
-[![](https://visitcount.itsvg.in/api?id=sumedhgh29 &icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 
 
