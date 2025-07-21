@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently an AR/VR Developer and UI/UX Designer <br>👯 I’m enthusiastic about Cloud Computing & DBMS<br>🌱 I’m pursuing my B. Tech in Information Technology <br>
+🔭 I’m currently an AR/VR Developer and Unity3D Designer <br>👯 I’m enthusiastic about creatng games and designing AR-VR applications 
 
 
 ## 🌐 Socials:
